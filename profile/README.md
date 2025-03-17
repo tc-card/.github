@@ -1,6 +1,8 @@
+
+
 <center>
-  
-  ![banner](https://github.com/user-attachments/assets/0699e84b-87bf-4931-a473-35a332889a6a)
+
+![banner](https://github.com/user-attachments/assets/0699e84b-87bf-4931-a473-35a332889a6a)
 
 # TC Cards by Total Connect
 
@@ -12,8 +14,7 @@
 ### **What are TC Cards by Total Connect?**  
 **TC Cards** by Total Connect are NFC-powered business and networking tools that combine physical cards with personalized digital portfolios. With a simple tap, users can share their professional information, services, or portfolios. TC Cards cater to individuals, small businesses, and enterprises with features like customizable webfolios, QR code sharing, and CRM integrations.  
 
-👉 Learn more or get started: [**TC Cards by Total Connect**](https://tc-card.github.io/Main/)  
-`*(Note: The site is being updated and will soon be available at a custom domain.)*`
+👉 Learn more or get started: [**TC Cards by Total Connect**](https://tccards.tn)  
 
 ---
 
@@ -51,9 +52,33 @@ Welcome to a revolutionary way of networking! This platform is designed to make 
 
 ### **Breakdown of the Subscription Plans**
 
+#### **Starter Plans**
 | **Plan**             | **Price**   | **Description**                                                                                                     | **Features**                                                                                                                                                                 |
 |----------------------|-------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Basic Plan**        | 79 TND      | Best for beginners and small businesses.                                                                            | 1 NFC card, pre-designed portfolio, email support, QR code sharing, contact button.                                                                                        |
-| **Standard Plan**     | 159 TND     | Adds customization options for a more professional look.                                                            | Customizable portfolio, branded cards, removes watermarks, contact form for lead generation.                                                                               |
-| **Professional Plan** | 399 TND     | Ideal for growing businesses with advanced features.                                                                | 10 NFC cards, fully customizable portfolios, custom branding, custom domain, CRM integration, SLA-guaranteed priority support.                                            |
-| **Enterprise Plan**   | Custom      | Tailored for larger organizations with unlimited support options.                                                   | Unlimited cards, fully custom portfolio design, advanced support, dedicated account manager, custom integrations and domains.                                             |
+| **Free**             | 0 TND       | Perfect for individuals starting their digital journey.                                                             | Pre-designed webfolio, 3 media links, mobile-friendly design, share via custom link, contact button.                                                                       |
+| **Basic**            | 49 TND      | Perfect for individuals and small businesses starting with NFC technology.                                          | 1 NFC card, pre-designed webfolio, 6 media links, email support, QR code sharing, contact form, contact button.                                                            |
+
+#### **Advanced Plans**
+| **Plan**             | **Price**   | **Description**                                                                                                     | **Features**                                                                                                                                                                 |
+|----------------------|-------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Standard**         | 100 TND     | Essential features to enhance your business presence.                                                               | 5 NFC cards, more customizable webfolio, unlimited media links, email support, custom branding, remove watermark, smart form.                                              |
+| **Professional**           | 379+ TND    | Tailored solutions for professionals and growing businesses.                                                        | 10+ NFC cards, fully customizable webfolio, priority support, SLA guarantee, custom branding, custom domain, CRM integration, advanced contact form, remove watermark.      |
+| **Enterprise**       | Custom      | Tailored solutions for enterprises with advanced needs.                                                             | Unlimited NFC cards, custom webfolio design, dedicated account manager, priority support, SLA guarantee, custom integrations, custom domain, custom forms.                 |
+
+---
+
+### **Why Choose TC Cards?**
+- **Affordable Pricing**: Plans start at **0 TND** for beginners and scale to meet the needs of growing businesses.
+- **Eco-Friendly**: Replace traditional business cards with a sustainable, digital solution.
+- **Customizable**: Tailor your webfolio and branding to reflect your unique identity.
+- **Scalable**: From freelancers to enterprises, TC Cards grows with your business.
+
+---
+
+👉 Ready to get started? Visit [**TC Cards by Total Connect**](https://tccards.tn/plans) to explore plans and features.  
+
+</center>
+
+---
+
+This version integrates the new plan data while maintaining the original structure and tone. It also adds a "Why Choose TC Cards?" section for better user engagement. Let me know if you need further adjustments!
