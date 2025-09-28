@@ -9,7 +9,7 @@
 # TC Cards by Total Connect 🚀
 
 ## 📋 Table of Contents
-- [What Are TC Cards?](#what-are-tc-cards)
+- [🤔 What Are TC Cards?](#what-are-tc-cards)
 - [Key Features](#key-features)
 - [Pricing Plans](#pricing-plans)
 - [Getting Started](#getting-started)
