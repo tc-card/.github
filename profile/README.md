@@ -4,81 +4,137 @@
 
 ![banner](https://github.com/user-attachments/assets/0699e84b-87bf-4931-a473-35a332889a6a)
 
-# TC Cards by Total Connect
-
-### **What is Total Connect?**  
-**Total Connect** is an innovative platform offering NFC-enabled solutions for seamless networking and professional branding. It provides users with tools to share digital portfolios, contact information, and services effortlessly through NFC cards and customizable webfolios.
-
----
-
-### **What are TC Cards by Total Connect?**  
-**TC Cards** by Total Connect are NFC-powered business and networking tools that combine physical cards with personalized digital portfolios. With a simple tap, users can share their professional information, services, or portfolios. TC Cards cater to individuals, small businesses, and enterprises with features like customizable webfolios, QR code sharing, and CRM integrations.  
-
-👉 Learn more or get started: [**TC Cards by Total Connect**](https://tccards.tn)  
-
----
-
-### **Build and Share Your Digital Identity**  
-Welcome to a revolutionary way of networking! This platform is designed to make creating, managing, and sharing your digital identity seamless. Using cutting-edge NFC technology, we're replacing traditional business cards with a sustainable, digital alternative.
-
----
-
-### **What TC Cards Could Be**
-
-- **Networking Tool**: Helps professionals connect and share information seamlessly at events, meetings, or on the go.
-- **Marketing Aid**: Businesses can use it to showcase services, products, or portfolios in a sleek, modern format.
-- **Eco-Friendly Replacement**: Replaces traditional business cards, promoting sustainability.
-
----
-
-### **Key Advantages of TC Cards**
-
-| **Feature**                        | **Description**                                                                                                                                                        | **Why It Matters**                                                                                                                                                                   |
-|------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Effortless Sharing**             | **Share with NFC and QR codes**                                                                                                                                        | Instantly connect with clients, partners, and prospects by sharing your portfolio or contact information through a tap or scan—no need for physical cards.                             |
-|                                    | **Quick setup for webfolios**                                                                                                                                           | Launch your personalized online portfolio in minutes, making it easy to showcase your work and grow your online presence.                                                                  |
-| **Tailored Branding**              | **Custom branding and personalized domains**                                                                                                                           | Create a unique identity for your business or personal brand with fully customizable branding options and the ability to use your own domain name.                                        |
-|                                    | **Fully customizable portfolios**                                                                                                                                       | Tailor your portfolio design to your exact needs, ensuring your online presence reflects your style and professionalism.                                                                  |
-| **Scalable Solutions for Growth**  | **Plans for individuals and businesses of all sizes**                                                                                                                  | Whether you're a freelancer or running a large company, TC Cards provides flexible plans that scale with your needs as you grow.                                                           |
-|                                    | **Easy expansion options**                                                                                                                                             | Seamlessly transition from individual use to business solutions, allowing you to expand your professional network or team without disrupting your service.                                |
-| **Cost-Effective Innovation**      | **Affordable pricing with premium features**                                                                                                                           | Access enterprise-grade features such as NFC cards, custom branding, and CRM integration without breaking the bank, making it a perfect fit for startups and established businesses.    |
-|                                    | **Save on traditional business cards**                                                                                                                                  | Replace traditional business cards with a modern, eco-friendly solution that’s more functional and provides better ROI for networking and client engagement.                             |
-| **Enhanced Security**              | **Secure data transfer with NFC technology**                                                                                                                           | Protect your personal and professional information with secure NFC technology that ensures your data remains private and secure during every interaction.                                 |
-
-> [!IMPORTANT]
-> No matter your profession—whether you're a freelancer, entrepreneur, doctor, lawyer, business owner, or company leader—Total Connect is the modern, efficient way to share your professional identity, make lasting connections, and elevate your digital presence. Invest in Total Connect today, and stay ahead of the curve!
-
----
-
-### **Breakdown of the Subscription Plans**
-
-#### **Starter Plans**
-| **Plan**             | **Price**   | **Description**                                                                                                     | **Features**                                                                                                                                                                 |
-|----------------------|-------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Free**             | 0 TND       | Perfect for individuals starting their digital journey.                                                             | Pre-designed webfolio, 3 media links, mobile-friendly design, share via custom link, contact button.                                                                       |
-| **Basic**            | 65 TND      | Perfect for individuals and small businesses starting with NFC technology.                                          | 1 NFC card, pre-designed webfolio, 6 media links, email support, QR code sharing, contact button.                                                            |
-
-#### **Advanced Plans**
-| **Plan**             | **Price**   | **Description**                                                                                                     | **Features**                                                                                                                                                                 |
-|----------------------|-------------|---------------------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Standard**         | 105 TND     | Essential features to enhance your business presence.                                                               | 5 NFC cards, more customizable webfolio, unlimited media links, email support, custom branding, remove watermark, smart form.                                              |
-| **Professional**           | 100+ TND    | Tailored solutions for professionals and growing businesses.                                                        | 10+ NFC cards, fully customizable webfolio, priority support, SLA guarantee, custom branding, custom domain, CRM integration, advanced contact form, remove watermark.      |
-| **Enterprise**       | Custom      | Tailored solutions for enterprises with advanced needs.                                                             | Unlimited NFC cards, custom webfolio design, dedicated account manager, priority support, SLA guarantee, custom integrations, custom domain, custom forms.                 |
-
----
-
-### **Why Choose TC Cards?**
-- **Affordable Pricing**: Plans start at **0 TND** for beginners and scale to meet the needs of growing businesses.
-- **Eco-Friendly**: Replace traditional business cards with a sustainable, digital solution.
-- **Customizable**: Tailor your webfolio and branding to reflect your unique identity.
-- **Scalable**: From freelancers to enterprises, TC Cards grows with your business.
-
----
-
-👉 Ready to get started? Visit [**TC Cards by Total Connect**](https://tccards.tn/plans) to explore plans and features.  
-
 </center>
 
+# TC Cards by Total Connect 🚀
+
+## 📋 Table of Contents
+- [What Are TC Cards?](#what-are-tc-cards)
+- [Key Features](#key-features)
+- [Pricing Plans](#pricing-plans)
+- [Getting Started](#getting-started)
+- [Technology](#technology)
+- [Why Choose TC Cards?](#why-choose-tc-cards)
+- [Support](#support)
+
+## 🤔 What Are TC Cards?
+
+**TC Cards** are innovative **NFC-powered digital business cards** that revolutionize professional networking. Instead of traditional paper cards, TC Cards provide a seamless, tap-to-connect experience that shares your complete professional profile instantly.
+
+> **Digital Business Cards · No paper · No handoffs · Just one smooth tap**
+
+### 🌟 What Makes TC Cards Special?
+
+- **Instant Sharing**: One tap shares your complete professional profile
+- **Always Updated**: Change your information anytime - updates reflect instantly across all connections
+- **Analytics & Insights**: Track profile views, connection rates, and engagement metrics
+- **Eco-Friendly**: Sustainable digital alternative to traditional business cards
+
+## 🚀 Key Features
+
+### 💼 Professional Networking
+| Feature | Benefit |
+|---------|---------|
+| **NFC Technology** | Tap to share - no apps needed by recipients |
+| **QR Code Support** | Alternative sharing method for all devices |
+| **Multimedia Profiles** | Include videos, images, and social links |
+| **Real-time Analytics** | Track engagement and connection metrics |
+
+### 🎨 Customization
+- **Customizable Design**: Create profiles that reflect your personal brand
+- **Social Integrations**: Connect all your professional social profiles
+- **Brand Alignment**: Maintain consistent branding across your digital presence
+
+### ⚡ Technical Advantages
+- **No Recipient Apps Required**: Works with native smartphone NFC capabilities
+- **Durable Construction**: Credit-card thickness and durability
+- **Always Current**: Never waste printed cards again with instant updates
+
+## 💰 Pricing Plans
+
+TC Cards offers flexible pricing to suit different needs:
+
+### **Starter Plans**
+| Plan | Price | Best For | Key Features |
+|------|-------|----------|--------------|
+| **Free** | 0 TND | Testing platform, simple link sharing | Basic online presence, watermark, 30 days expiry |
+| **Basic** | 65 TND | Freelancers & small businesses | 1 NFC card, basic features |
+
+### **Advanced Solutions** [🔜]
+- **Professional Plans**: Custom pricing for teams and organizations
+- **Enterprise Solutions**: Custom configurations and bulk NFC cards
+
+> 💡 **Special launch pricing currently available - 24% off!**
+
+## 🛠️ Getting Started
+
+### Three Simple Steps to Digital Networking:
+
+1. **🎨 Craft Your Digital Identity**
+   - Build your professional profile with multimedia elements
+   - Customize design to reflect your personal brand
+
+2. **📱 Receive Your Smart Business Card**
+   - Get your sleek, durable NFC card
+   - Includes unique @username and QR code
+
+3. **🔗 Tap & Connect Instantly**
+   - Share your profile with just a tap
+   - Recipients get instant access without special apps
+
+## 🔬 Technology
+
+### NFC Technology Explained
+**Near Field Communication (NFC)** is contactless transfer technology that allows devices to communicate over small distances. TC Cards use **NFC 13.56** sending URLs or contact information using radio waves, but only at very short distances.
+
+### Device Compatibility
+- **Android Devices**: NFC readers typically located on back center
+- **Apple iPhones/iPads**: Scan near the top center of device
+- **Most Modern Smartphones**: Compatible with devices post-2016
+
+## 📊 Why Choose TC Cards?
+
+### 💡 Traditional vs. TC Cards
+| Aspect | Traditional Cards | TC Cards |
+|--------|-------------------|----------|
+| **Ecology** | Paper waste | Digital & sustainable |
+| **Updates** | Static & outdated | Dynamic & always current |
+| **Analytics** | No tracking | Engagement insights [🔜] |
+| **Sharing** | Physical handoff | Instant tap-to-connect |
+
+### 🏆 Competitive Advantages
+- **✅ No Monthly Fees** (on certain plans) vs. competitors with subscription models
+- **✅ No Recipient App Required** vs. solutions requiring dedicated apps
+- **✅ Instant Updates** vs. static digital cards
+- **✅ Comprehensive Analytics** vs. basic solutions [🔜]
+
+## 🌐 About Total Connect
+
+Total Connect represents the evolution of professional networking in the digital age. We're not just replacing paper cards - we're revolutionizing how professionals connect and make lasting impressions.
+
+## ❓ Support
+
+For questions, custom solutions, or enterprise requirements:
+- **Website**: [tccards.tn](https://www.tccards.tn/)
+- **Enterprise Inquiries**: Contact for custom solutions requiring 5+ NFC cards
+
+---
+
+<div align="center">
+
+### **Ready to transform your networking?** 🚀
+
+**Join thousands of professionals who already switched to smarter digital business cards.**
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=fadeIn" />
+</p>
+
+</div>
+
+---
+
+##### *Last updated: September 2025 | Information sourced from [tccards.tn](https://www.tccards.tn/) and complementary NFC technology resources*
 ---
 
 This version integrates the new plan data while maintaining the original structure and tone. It also adds a "Why Choose TC Cards?" section for better user engagement. Let me know if you need further adjustments!
